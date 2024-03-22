@@ -9,7 +9,7 @@
 
 - 🤝 I'm looking for help to find a **an apprenticeship**
 
-- 👨‍💻 All of my projects are available at [Portfolio under construction 🚧](Portfolio under construction 🚧)
+- 👨‍💻 All of my projects are available at (Portfolio under construction 🚧)
 
 - 💬 Ask me about **anything**
 
