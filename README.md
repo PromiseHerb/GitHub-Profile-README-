@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Promise</h1>
 <h3 align="center">A passionate student fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [Les_chaises_musicales](the link will be available soon🏗)
+- 🔭 I’m currently working on [Les_chaises_musicales](https://github.com/PromiseHerb/plateforme-de-vente-de-meubles)
 
 - 🌱 I’m currently learning **React, Svelte**
 
